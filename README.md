@@ -8,7 +8,7 @@ Clone repository, then unzip contents into it's own folder.
 
 Open Device Manager, and select the unknown device matching ID "ACPI\VEN_MSSL&DEV_1680".
 (To find the hardware ID, right click the unknown device in Device Manager, select properties, then select details. 
-Scroll to "Hardware Ids), and compare values)
+Scroll to "Hardware Ids", and compare values)
 
 Right click the unknown device, then select "Update driver".
 
