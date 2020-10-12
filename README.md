@@ -1,5 +1,5 @@
 # SileadFirmware
-Touchscreen firmware for RCA W122SC4T2 (Cambio 12.2)
+Touchscreen firmware for RCA W122SC24T2 (Cambio 12.2)
 
 This repository is for archival purposes, for those who reinstalled Windows 10 from a clean ISO and lost touchscreen support. 
 
